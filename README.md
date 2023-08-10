@@ -5,8 +5,6 @@ The following image is an example of what the command line game will look like
 
 ![image](https://github.com/simrank13/bridgebuilder/assets/132793467/4cdd7da4-59fd-489d-a623-cec566be9e48)
 ![image](https://github.com/simrank13/bridgebuilder/assets/132793467/6c9cb2c5-65fb-4775-9f20-3c9c92b9e739)
-![image](https://github.com/simrank13/bridgebuilder/assets/132793467/734e5947-78de-47a8-b882-2a8f69197875)
-
 
 
 
