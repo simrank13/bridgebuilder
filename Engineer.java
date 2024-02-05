@@ -8,7 +8,6 @@ import java.util.Random;
 
 /**
  * This class represents the computer-controlled player and the rival engineer and includes the methods for marking its move based on selected difficulty level and blocking player's path
- * @author skullar5
  *
  */
 public class Engineer {
