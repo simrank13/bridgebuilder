@@ -23,7 +23,6 @@ package BridgeBuilderAdv;
  */
 /**
  * This class represents the gameboard where the game will be played and the construction zone and includes methods for displaying the board and check the game status
- * @author skullar5
  *
  */
 public class GameBoard {
