@@ -7,7 +7,6 @@ package BridgeBuilderAdv;
 
 /**
  * This class represents the user-controlled player , containing methods for making (marking) moves on the grid of the size user inputted and calculate scores
- * @author skullar5
  */
 public class Player {
 	/**
